@@ -1,1 +1,1 @@
-# GAN_Pytorch
+# Pytorch
